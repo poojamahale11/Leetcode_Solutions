@@ -15,6 +15,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -40,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
