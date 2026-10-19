@@ -47,6 +47,7 @@
 | [0039-combination-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
