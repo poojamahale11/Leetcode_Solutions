@@ -10,11 +10,13 @@
 | [0078-subsets](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0322-coin-change](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 ## Breadth-First Search
 |  |
@@ -24,6 +26,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -51,6 +54,7 @@
 | [0077-combinations](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -67,4 +71,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0078-subsets) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
