@@ -15,6 +15,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0392-is-subsequence) |
@@ -95,4 +96,12 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
