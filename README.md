@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0322-coin-change](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0322-coin-change) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
