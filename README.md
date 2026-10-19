@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0322-coin-change](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0322-coin-change) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/poojamahale11/Leetcode_Solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
